@@ -1,6 +1,6 @@
 # 2017-hall-niccoli
 
-This repo accompanies the 2017 GeoConvention talk, _Recovering data from seismic images by colourmap estimation_, by Matt Hall and Matteo Niccoli.
+This repo accompanies the 2017 GeoConvention talk, _Recovering data from seismic images by colourmap estimation_, by [Matt Hall](https://github.com/kwinkunks) and [Matteo Niccoli](https://github.com/mycarta).
 
 The following notebooks implement the workflow and reproduce most of the figures in the talk:
 
